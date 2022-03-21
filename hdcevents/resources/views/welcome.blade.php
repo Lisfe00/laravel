@@ -5,8 +5,6 @@
 @section('content')
 
        <h1>Pagina prinicipal</h1>
-
-       <h1>Tela de produtos</h1>
       
         <p>{{ $nome }}</p>
 
